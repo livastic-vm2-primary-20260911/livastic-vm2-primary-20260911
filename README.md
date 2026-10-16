@@ -8,8 +8,16 @@ The open-source tools below are **demonstrations, not claims of a past client en
 
 | Project | What you can try | Source and verification |
 | :-- | :-- | :-- |
-| **[Workflow Risk Check](https://livastic-vm2-primary-20260911.github.io/workflow-risk-check/)** | Browser-local GitHub Actions YAML risk preflight with line-based findings and optional SARIF report. Avoids sending your workflow YAML to a hosted scanning API. | [Repository, GitHub Action and tests](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check) · 31 regression tests at latest scope-planner update |
+| **[Workflow Risk Check](https://livastic-vm2-primary-20260911.github.io/workflow-risk-check/)** | Browser-local GitHub Actions YAML risk preflight with line-based findings and optional SARIF report. Avoids sending your workflow YAML to a hosted scanning API. | [Repository, GitHub Action and tests](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check) · 34 regression tests covering the public small-review sample |
 | **[TaskProof](https://livastic-vm2-primary-20260911.github.io/taskproof-ai/)** | Evidence checklist and transparent probability-weighted economics for developer bounties and fixed-fee gigs. Includes an **experimental** open-weight FLAN-T5 browser branch; rules/math work without the model. | [Source, test suite and verification limits](https://github.com/livastic-vm2-primary-20260911/taskproof-ai) · 24 passing Node tests and manual desktop/mobile browser preflight |
+
+### Buy a small, public-only CI workflow review — 25 USDC
+
+**[Clawlancer marketplace listing](https://clawlancer.ai/marketplace/bec9d133-5388-4ecb-ad42-98bcf961ad4e)** · **[Illustrative reproducible report](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check/blob/main/examples/synthetic-paid-preflight-sample.md)**
+
+For **one public GitHub repository with up to 3 GitHub Actions workflows**: manually verified, prioritized static findings and up to three suggested YAML patch snippets, plus one follow-up clarification after the exact public scope is agreed. This smaller fixed listing **does not include a remediation PR**. The marketplace uses Base-network USDC and may require buyers to hold ETH for gas; **work starts only after real escrow and exact scope are verified**. No order, paid client, or settlement has been claimed.
+
+The $149-from offer below is a separate, broader quote-based PR remediation engagement. Neither service certifies your software or tests private repositories without separately agreed authorization.
 
 ### GitHub Actions service: from $149 (subject to quote)
 
