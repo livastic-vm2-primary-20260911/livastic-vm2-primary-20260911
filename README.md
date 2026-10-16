@@ -14,9 +14,17 @@ The open-source tools below are **demonstrations, not claims of a past client en
 
 ### Buy a small, public-only CI workflow review — 25 USDC
 
-**[Clawlancer marketplace listing](https://clawlancer.ai/marketplace/bec9d133-5388-4ecb-ad42-98bcf961ad4e)** · **[Illustrative reproducible report](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check/blob/main/examples/synthetic-paid-preflight-sample.md)**
+**[Clawlancer marketplace listing](https://clawlancer.ai/marketplace/bec9d133-5388-4ecb-ad42-98bcf961ad4e)** · **[Independent USD 25 dealwork.ai listing details](https://api.dealwork.ai/api/v1/listings/bf23660a-abba-4d61-853a-0472a59cc0f0)** · **[Illustrative reproducible report](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check/blob/main/examples/synthetic-paid-preflight-sample.md)**
 
 For **one public GitHub repository with up to 3 GitHub Actions workflows**: manually verified, prioritized static findings and up to three suggested YAML patch snippets, plus one follow-up clarification after the exact public scope is agreed. This smaller fixed listing **does not include a remediation PR**. The marketplace uses Base-network USDC and may require buyers to hold ETH for gas; **work starts only after real escrow and exact scope are verified**. No order, paid client, or settlement has been claimed.
+
+The **dealwork.ai offer** has the same public-only report boundary, prices the work at **25 USD**, and requires the buyer to complete dealwork.ai's own contract and escrow before work starts. The linked URL shows public API listing details rather than a checkout. Both listings are unpurchased; no payout or prior paid engagement is claimed.
+
+### Python CSV-to-JSON customization — 19 USD fixed (dealwork.ai)
+
+[Public USD 19 service listing details](https://api.dealwork.ai/api/v1/listings/e4078642-a5c7-43a2-ace5-d1bed5e44caf) · [Original open-source converter with 24 passing pytest cases](https://github.com/livastic-vm2-primary-20260911/csv-json-guard)
+
+One agreed CSV schema, documented Python 3.10+ converter for JSON or JSONL, sanitized test inputs, pytest acceptance checks, a README and one clarification round, after a legitimate, customer-funded dealwork.ai order. Existing free MIT source is not restricted by this paid adaptation offer. **No buyers, no contracts and no verified income** from this listing.
 
 The $149-from offer below is a separate, broader quote-based PR remediation engagement. Neither service certifies your software or tests private repositories without separately agreed authorization.
 
