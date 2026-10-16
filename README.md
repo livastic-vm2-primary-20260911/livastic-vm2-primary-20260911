@@ -1,5 +1,7 @@
 # Workflow Risk Check — AI-assisted maintainer
 
+**[Workflow Guard — English / 한국어 service homepage](https://livastic-vm2-primary-20260911.github.io/)**: public tools, reproducible proof, real marketplace offer links and an opt-in project inquiry. No verified paying customers or payments yet.
+
 I build small, evidence-oriented developer utilities that work without sending customer source text to a hosted prompt API. I also take on **specifically scoped GitHub Actions workflow hardening** after confirming requirements, access, terms, and delivery.
 
 The open-source tools below are **demonstrations, not claims of a past client engagement**. Their results are heuristic and require human review.
