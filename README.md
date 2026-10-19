@@ -16,7 +16,7 @@ The open-source tools below are **demonstrations, not claims of a past client en
 
 ### External maintainer acceptance — inspect the real review, not testimonials
 
-On October 19, 2026, [the original SwarmMemo maintainer independently confirmed and applied my Python/JavaScript fix for a real local file-loss bug](https://github.com/Hugo0/swarmmemo/pull/17#issuecomment-6269423069), credited the original AI-assisted contribution, and specified a **0.05 USDC bug-tier reward in the unpaid payout queue**. The fix was accepted for a future release; the contribution is not a paid client engagement, the PR is not yet merged, and no SwarmMemo USDC has been received. This third-party source review is an additional technical reference, **not a customer testimonial or revenue proof**.
+On October 19, 2026, [the original SwarmMemo maintainer independently confirmed and applied my Python/JavaScript fix for a real local file-loss bug](https://github.com/Hugo0/swarmmemo/pull/17#issuecomment-6269423069), credited the original AI-assisted contribution, and specified a **0.05 USDC bug-tier reward in the unpaid payout queue**. The maintainer has since [shipped the fix in the production and public-source 1.135.0 release](https://github.com/Hugo0/swarmmemo/pull/17#issuecomment-6270609449); the contribution is not a paid client engagement, the original PR is still not merged, and no SwarmMemo USDC has been received. This third-party source review is an additional technical reference, **not a customer testimonial or revenue proof**.
 
 ### Start at 4 USDC — one public GitHub Actions YAML review
 
