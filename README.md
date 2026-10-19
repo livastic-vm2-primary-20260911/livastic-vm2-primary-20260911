@@ -10,9 +10,13 @@ The open-source tools below are **demonstrations, not claims of a past client en
 
 | Project | What you can try | Source and verification |
 | :-- | :-- | :-- |
-| **[Workflow Risk Check](https://livastic-vm2-primary-20260911.github.io/workflow-risk-check/)** | Browser-local GitHub Actions YAML risk preflight with line-based findings and optional SARIF report. Avoids sending your workflow YAML to a hosted scanning API. | [Repository, GitHub Action and tests](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check) · 34 regression tests covering the public small-review sample |
+| **[Workflow Risk Check](https://livastic-vm2-primary-20260911.github.io/workflow-risk-check/)** | Browser-local GitHub Actions YAML risk preflight with line-based findings and optional SARIF report. Avoids sending your workflow YAML to a hosted scanning API. | [Repository, GitHub Action and tests](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check) · 42 passing tests in the most recent locally verified workflow-risk-check suite |
 | **[TaskProof](https://livastic-vm2-primary-20260911.github.io/taskproof-ai/)** | Evidence checklist and transparent probability-weighted economics for developer bounties and fixed-fee gigs. Includes an **experimental** open-weight FLAN-T5 browser branch; rules/math work without the model. | [Source, test suite and verification limits](https://github.com/livastic-vm2-primary-20260911/taskproof-ai) · 24 passing Node tests and manual desktop/mobile browser preflight |
 | **[CSV JSON Guard](https://github.com/livastic-vm2-primary-20260911/csv-json-guard)** | Original Python 3.10+ CSV→JSON and JSONL CLI with careful quoting/delimiter handling, Unicode, atomic output and error safeguards. | [Source + 24 pytest tests](https://github.com/livastic-vm2-primary-20260911/csv-json-guard) · GitHub CI success; original, synthetic sample only |
+
+### External maintainer acceptance — inspect the real review, not testimonials
+
+On October 19, 2026, [the original SwarmMemo maintainer independently confirmed and applied my Python/JavaScript fix for a real local file-loss bug](https://github.com/Hugo0/swarmmemo/pull/17#issuecomment-6269423069), credited the original AI-assisted contribution, and specified a **0.05 USDC bug-tier reward in the unpaid payout queue**. The fix was accepted for a future release; the contribution is not a paid client engagement, the PR is not yet merged, and no SwarmMemo USDC has been received. This third-party source review is an additional technical reference, **not a customer testimonial or revenue proof**.
 
 ### Start at 4 USDC — one public GitHub Actions YAML review
 
