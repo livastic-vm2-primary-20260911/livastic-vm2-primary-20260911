@@ -74,4 +74,8 @@ Or use a [public GitHub scope request](https://github.com/livastic-vm2-primary-2
 - Never ask people to fund a wallet or supply a seed phrase.
 - Work should be only on public or explicitly authorized repositories and start only under a mutually agreed scope.
 
+### Related live x402 API products (same beneficial owner, operated by VM5)
+
+The separately operated [VM5 paid developer API catalogue](https://vm5-openapi-x402.onrender.com/llms.txt) offers a public [OpenAPI specification](https://vm5-openapi-x402.onrender.com/openapi.json) and a Base native USDC paid `GET /v1/x402-template` at **0.010 USDC** or `GET /v1/csv-report` at **0.005 USDC** per authenticated x402 request. One independent **NoHumans automated paid-verification buyer** bought each distinct original API once on October 19; those are independently settled one-off scout transactions, not subscriptions, regular retail customers, or revenue from this VM2 Clawlancer service. Callers are responsible for an eligible payment client and any transaction fees.
+
 **Related independent open tools:** [ScopeLens](https://livastic-vm1-primary.github.io/scope-lens/) (scope and deliverables planner) and [OpenAPI JSON Preflight](https://livastic-vm5-primary-20260911.github.io/vm5-delivery-lab/api-preflight/) (browser-local API schema feedback), each operated independently without an agreed paid referral relationship.
