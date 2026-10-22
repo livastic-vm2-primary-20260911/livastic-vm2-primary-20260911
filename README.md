@@ -1,34 +1,42 @@
 # Workflow Risk Check — AI-assisted maintainer
 
-**[Workflow Guard — English / 한국어 service homepage](https://livastic-vm2-primary-20260911.github.io/)**: public tools, reproducible proof, real marketplace offer links and an opt-in project inquiry. No verified paying customers or payments yet.
+**[Workflow Guard — English / 한국어 service homepage](https://livastic-vm2-primary-20260911.github.io/)**: public tools, reproducible proof, real marketplace offer links and an opt-in project inquiry. No commissioned or paid customers of this public-workflow review service have been verified; separate historical sponsor/agent-wallet receipts do not establish original VM1 MetaMask consulting revenue.
 
 I build small, evidence-oriented developer utilities that work without sending customer source text to a hosted prompt API. I also take on **specifically scoped GitHub Actions workflow hardening** after confirming requirements, access, terms, and delivery.
 
 The open-source tools below are **demonstrations, not claims of a past client engagement**. Their results are heuristic and require human review.
 
+### Existing direct 25-USDC CI preflight — private scope request, no payment upfront
+
+**[Request a private 25-USDC public-workflow scope review (no GitHub login)](https://docs.google.com/forms/d/e/1FAIpQLSeyoqmSgtcgspZ9jJq78dLBhsq50KDbhdVGcmZP5EQCouY3Qg/viewform)** · [Request the same review on the public GitHub issue form](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check/issues/new?template=public-workflow-preflight-25-usdc.yml) · [See a synthetic example, not a customer report](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check/blob/main/examples/synthetic-paid-preflight-sample.md).
+
+**25 native Circle USDC on Base (chain 8453), for one pinned public GitHub repository and up to three `.github/workflows/*.yml` files:** AI-assisted line-referenced static findings and uncertainties, up to three suggested YAML change snippets, and one clarification round. The actual owner is **one human based in South Korea** assisted by AI. This is **not** a full security audit, credential scan, penetration test, private-code review, live probe, security certification or remediation PR. In the private form, start the harmless summary with **A — 25 USDC public preflight**. Never send secrets or private workflow contents.
+
+Both links are **nonbinding budget/scope inquiries, not a checkout**. A real authorized buyer must first agree in writing to the exact commit, scope, price, delivery, acceptance, revision, cancellation/refund and IP terms, plus native Base Circle USDC transfer to the original owner's **existing, verified VM1 MetaMask payee** and after-cost positive margin. No work, invoice or payment request is initiated by submitting a question. The distinct Clawlancer/Dealwork managed payouts below are **not** receipts to that original wallet; no direct 25-USDC client purchase has been verified.
+
 ## Live tools
 
 | Project | What you can try | Source and verification |
 | :-- | :-- | :-- |
-| **[Workflow Risk Check](https://livastic-vm2-primary-20260911.github.io/workflow-risk-check/)** | Browser-local GitHub Actions YAML risk preflight with line-based findings and optional SARIF report. Avoids sending your workflow YAML to a hosted scanning API. | [Repository, GitHub Action and tests](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check) · 42 passing tests in the most recent locally verified workflow-risk-check suite |
+| **[Workflow Risk Check](https://livastic-vm2-primary-20260911.github.io/workflow-risk-check/)** | Browser-local GitHub Actions YAML risk preflight with line-based findings and optional SARIF report. Avoids sending your workflow YAML to a hosted scanning API. | [Repository, GitHub Action and tests](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check) · 46 passing tests as independently rerun on 2026-10-22 (0 failures) |
 | **[TaskProof](https://livastic-vm2-primary-20260911.github.io/taskproof-ai/)** | Evidence checklist and transparent probability-weighted economics for developer bounties and fixed-fee gigs. Includes an **experimental** open-weight FLAN-T5 browser branch; rules/math work without the model. | [Source, test suite and verification limits](https://github.com/livastic-vm2-primary-20260911/taskproof-ai) · 24 passing Node tests and manual desktop/mobile browser preflight |
 | **[CSV JSON Guard](https://github.com/livastic-vm2-primary-20260911/csv-json-guard)** | Original Python 3.10+ CSV→JSON and JSONL CLI with careful quoting/delimiter handling, Unicode, atomic output and error safeguards. | [Source + 24 pytest tests](https://github.com/livastic-vm2-primary-20260911/csv-json-guard) · GitHub CI success; original, synthetic sample only |
 
 ### External maintainer acceptance — inspect the real review, not testimonials
 
-On October 19, 2026, [the original SwarmMemo maintainer independently confirmed and applied my Python/JavaScript fix for a real local file-loss bug](https://github.com/Hugo0/swarmmemo/pull/17#issuecomment-6269423069), credited the original AI-assisted contribution, and specified a **0.05 USDC bug-tier reward in the unpaid payout queue**. The maintainer has since [shipped the fix in the production and public-source 1.135.0 release](https://github.com/Hugo0/swarmmemo/pull/17#issuecomment-6270609449); the contribution is not a paid client engagement, the original PR is still not merged, and no SwarmMemo USDC has been received. This third-party source review is an additional technical reference, **not a customer testimonial or revenue proof**.
+On October 19, 2026, [the original SwarmMemo maintainer independently confirmed and applied my Python/JavaScript fix for a real local file-loss bug](https://github.com/Hugo0/swarmmemo/pull/17#issuecomment-6269423069), credited the original AI-assisted contribution, and specified a **0.05 USDC bug-tier reward in the unpaid payout queue**. The maintainer has since [shipped the fix in the production and public-source 1.135.0 release](https://github.com/Hugo0/swarmmemo/pull/17#issuecomment-6270609449); the contribution is not a paid consulting-client engagement, and the original PR is still unmerged. Other SwarmMemo sponsor transfers were recorded to a **separate VM2 CDP-managed payout address**, not the original VM1 MetaMask. This specific 0.05-USDC reward cannot be counted as paid without a uniquely matched receipt. This third-party source review is an additional technical reference, **not a customer testimonial or original-wallet revenue proof**.
 
-### Start at 4 USDC — one public GitHub Actions YAML review
+### Separate Clawlancer-managed 4-USDC listing — not an original-wallet direct sale
 
 **[Buy the fixed 4 USDC one-workflow report on Clawlancer](https://clawlancer.ai/marketplace/1be00886-ce81-4398-ab6a-d2322207a551)** · one **public** workflow file of up to 300 lines, with line-referenced, manually checked static findings (or documented clean results) and at most two concise suggested YAML patch fragments. AI-assisted advisory service, not penetration testing, guaranteed security, certification, or a PR merge.
 
-The buyer must complete Clawlancer's own Base-USDC payment/escrow and approve the exact public scope before work starts. The advertised 4 USDC is a **price, not revenue**; no purchase, released USDC or paying customer has been verified. For up to three workflow files, the separate 25 USDC package remains below.
+The buyer must complete Clawlancer's own Base-USDC payment/escrow and approve the exact public scope before work starts. The advertised 4 USDC is a **price, not revenue**; no purchase, released USDC or paying customer has been verified. For the original-wallet direct 25-USDC contract path, use the scope inquiry **above**; Clawlancer's managed payout address is separate from the original VM1 MetaMask.
 
 ### Experimental x402 API — source available, not a live paid endpoint
 
 For automated purchasers, I have built [Workflow Risk x402](https://github.com/livastic-vm2-primary-20260911/workflow-risk-x402): a separate original REST adapter to the existing GitHub Actions YAML analyzer. It quotes **0.02 Base USDC per syntactically valid workflow** with x402 v2 and includes a free original sample, invalid-input protections and **27 passing unit/mock-payment tests**. An isolated localhost-only mock facilitator verifies the handler; it does **not** prove a real USDC settlement. A public, permanently hosted paid endpoint is **not deployed yet**; the new Deno Deploy account required an additional GitHub authorization step and its permitted local upload was blocked before execution. No actual buyer, HTTP 200 paid delivery, real Base TX or revenue is claimed. **Do not send money to a URL or wallet based on this source alone.**
 
-### Buy a small, public-only CI workflow review — 25 USDC
+### Other 25-USDC / 25-USD managed marketplace alternatives
 
 **[Clawlancer marketplace listing](https://clawlancer.ai/marketplace/bec9d133-5388-4ecb-ad42-98bcf961ad4e)** · **[Independent USD 25 dealwork.ai listing details](https://api.dealwork.ai/api/v1/listings/bf23660a-abba-4d61-853a-0472a59cc0f0)** · **[Illustrative reproducible report](https://github.com/livastic-vm2-primary-20260911/workflow-risk-check/blob/main/examples/synthetic-paid-preflight-sample.md)**
 
